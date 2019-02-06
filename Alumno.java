@@ -6,3 +6,9 @@ public class Alumno
 	
 	private Alumno(){}
 }
+public class Holiwi
+{
+	private String hola;
+
+
+}
