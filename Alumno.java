@@ -6,11 +6,7 @@ public class Alumno
 	
 	private Alumno(){}
 }
-public class Holiwi
-{
+public void Holiwi{
 	private String hola;
-	Holiwi{
-		this.hola=hola;
-}
 
 }
