@@ -9,4 +9,7 @@ public class Alumno
 public void Holiwi{
 	private String hola;
 
+	public Holiwi(){
+	hola="saludaciones y saludamientos";
+}
 }
