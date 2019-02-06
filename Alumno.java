@@ -9,6 +9,8 @@ public class Alumno
 public class Holiwi
 {
 	private String hola;
-
+	Holiwi{
+		this.hola=hola;
+}
 
 }
